@@ -1,0 +1,15 @@
+/workspaces/Csharp_tut/bank_oops/bin/Debug/net8.0/bank_oops
+/workspaces/Csharp_tut/bank_oops/bin/Debug/net8.0/bank_oops.deps.json
+/workspaces/Csharp_tut/bank_oops/bin/Debug/net8.0/bank_oops.runtimeconfig.json
+/workspaces/Csharp_tut/bank_oops/bin/Debug/net8.0/bank_oops.dll
+/workspaces/Csharp_tut/bank_oops/bin/Debug/net8.0/bank_oops.pdb
+/workspaces/Csharp_tut/bank_oops/obj/Debug/net8.0/bank_oops.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp_tut/bank_oops/obj/Debug/net8.0/bank_oops.AssemblyInfoInputs.cache
+/workspaces/Csharp_tut/bank_oops/obj/Debug/net8.0/bank_oops.AssemblyInfo.cs
+/workspaces/Csharp_tut/bank_oops/obj/Debug/net8.0/bank_oops.csproj.CoreCompileInputs.cache
+/workspaces/Csharp_tut/bank_oops/obj/Debug/net8.0/bank_oops.sourcelink.json
+/workspaces/Csharp_tut/bank_oops/obj/Debug/net8.0/bank_oops.dll
+/workspaces/Csharp_tut/bank_oops/obj/Debug/net8.0/refint/bank_oops.dll
+/workspaces/Csharp_tut/bank_oops/obj/Debug/net8.0/bank_oops.pdb
+/workspaces/Csharp_tut/bank_oops/obj/Debug/net8.0/bank_oops.genruntimeconfig.cache
+/workspaces/Csharp_tut/bank_oops/obj/Debug/net8.0/ref/bank_oops.dll

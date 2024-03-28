@@ -1,0 +1,15 @@
+/workspaces/Csharp_tut/Basics/obj/Debug/net8.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp_tut/Basics/obj/Debug/net8.0/Basics.AssemblyInfoInputs.cache
+/workspaces/Csharp_tut/Basics/obj/Debug/net8.0/Basics.AssemblyInfo.cs
+/workspaces/Csharp_tut/Basics/obj/Debug/net8.0/Basics.csproj.CoreCompileInputs.cache
+/workspaces/Csharp_tut/Basics/obj/Debug/net8.0/Basics.sourcelink.json
+/workspaces/Csharp_tut/Basics/bin/Debug/net8.0/Basics
+/workspaces/Csharp_tut/Basics/bin/Debug/net8.0/Basics.deps.json
+/workspaces/Csharp_tut/Basics/bin/Debug/net8.0/Basics.runtimeconfig.json
+/workspaces/Csharp_tut/Basics/bin/Debug/net8.0/Basics.dll
+/workspaces/Csharp_tut/Basics/bin/Debug/net8.0/Basics.pdb
+/workspaces/Csharp_tut/Basics/obj/Debug/net8.0/Basics.dll
+/workspaces/Csharp_tut/Basics/obj/Debug/net8.0/refint/Basics.dll
+/workspaces/Csharp_tut/Basics/obj/Debug/net8.0/Basics.pdb
+/workspaces/Csharp_tut/Basics/obj/Debug/net8.0/Basics.genruntimeconfig.cache
+/workspaces/Csharp_tut/Basics/obj/Debug/net8.0/ref/Basics.dll
